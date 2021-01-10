@@ -1,5 +1,5 @@
 {
-  "name": "Arelbot",
+  "name": "KuRkuR",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -42,7 +42,7 @@
   "author": "mrf.zvx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfzvx12/Arelbot/issues"
+    "url": "https://github.com/aimbot12-wq/termux-whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/mrfzvx12/Arelbot#readme"
+  "homepage": "https://github.com/aimbot12-wq/termux-whatsapp-bot#readme"
 }
