@@ -15,14 +15,14 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const BotName = 'Lexa'; 
-const instagram = 'http://www.instagram.com/mrf.zvx'; 
+const BotName = 'KuRkuR'; 
+const instagram = 'http://www.instagram.com/rendi_kurniawan02'; 
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:Mrf.zvx\n' // Nama kamu
-            + 'ORG:Lexa;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+            + 'FN:Mr.rendi\n' // Nama kamu
+            + 'ORG:KuRkuR;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6283183900270:+62 831-8390-0270\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
@@ -1418,7 +1418,7 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 ${instagram}  
 > *Bot aktif selama : ${aktif}*
 
-╭════•›「 SimSimi 」 
+╭════•›「 tanya bot 」 
 ├≽️ *.Bot*
 ├ _Gunakan huruf kecil_
 ├ _Contoh_
